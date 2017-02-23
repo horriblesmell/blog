@@ -2,4 +2,4 @@
 layout: about
 ---
 
-This is an about page. Tell the people visiting your page a little about yourself.
+I'm a journalist and a law student.
